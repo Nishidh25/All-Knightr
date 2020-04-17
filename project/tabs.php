@@ -837,17 +837,14 @@ $_SESSION['memb']='Premium';
          <p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i>Nishidh
           <i class="fa fa-pencil fa-fw w3-margin-left w3-text-theme"></i> Prashansa  
          <i class="fa fa-pencil fa-fw w3-margin-left w3-text-theme"></i> Agrima
-         <i class="fa fa-pencil fa-fw w3-margin-left w3-text-theme"></i> Hardik
          </p>
          <p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> I050
          <i class="fa fa-home fa-fw w3-margin-left w3-text-theme"></i> I067
          <i class="fa fa-home fa-fw w3-margin-left w3-text-theme"></i> I054 
-         <i class="fa fa-home fa-fw w3-margin-left w3-text-theme"></i> I056
          </p>
          <p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> Nov 25,2000
          <i class="fa fa-birthday-cake fa-fw w3-margin-left w3-text-theme"></i> Oct 23,2000
          <i class="fa fa-birthday-cake fa-fw w3-margin-left w3-text-theme"></i> Nov 14,2000
-         <i class="fa fa-birthday-cake fa-fw w3-margin-left w3-text-theme"></i> Feb 18,2000
          </p>
         </div>
       </div>
