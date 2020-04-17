@@ -6,7 +6,13 @@ An online game shopping site (Web Programming Project).
   * PHP
   * CSS
   * Javascript
+
+* Used framework :
+  * Bootstrap
   
+* Database :
+  * 10.3.16-MariaDB - phpMyAdmin SQL
+
 ## Installation
 * Install [XAMPP](https://www.apachefriends.org/download.html "XAMPP Download").
 * Open XAMPP Control panal and start Apache and MySQL Services.
