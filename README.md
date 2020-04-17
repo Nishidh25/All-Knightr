@@ -18,9 +18,13 @@ Online Game Shopping Site (WP project).
 * Open http://localhost/project/tabs.php on your browser to view the project.
 
 ## Screenshots
+#### Home
 ![HOME_Page](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Home.PNG)
+#### Games
 ![Games_Page1](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Games1.PNG)
 ![Games_Page2](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Games2.PNG)
+#### Signin/Signup
 ![Signup](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Signup.PNG)
 ![Signin](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Signin.PNG)
+#### Membership
 ![Membership](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Membership.PNG)
