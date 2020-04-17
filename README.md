@@ -1,5 +1,13 @@
 # All-Knightr
-Online Game Shopping Site (WP project).
+An online game shopping site (Web Programming Project).
+
+* Software languages used :
+ * HTML 
+ * PHP
+ * CSS
+ * Javascript
+* Used framework :
+ * Bootstrap
 
 ## Installation
 * Install [XAMPP](https://www.apachefriends.org/download.html "XAMPP Download").
@@ -7,10 +15,10 @@ Online Game Shopping Site (WP project).
 * Download project from [github](https://github.com/Nishidh25/All-Knightr.git "All-Knightr") or follow the following gitbash commands
   * `cd C:\\xampp\htdocs\`
   * `git clone https://github.com/Nishidh25/All-Knightr.git`
-* Extract files to C:\\xampp\htdocs\.
+* Extract files to `C:\\xampp\htdocs\` or your current working directory.
 * Open localhost/phpmyadmin/ or localhost:8080/phpmyadmin/ on your browser.
 * Click on new at side navbar.
-* Create a database with name `nishidh`. Note if you wold like to change database properies then edit the following code in [dbcontroller.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/dbcontroller.php) ,[memb.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/memb.php) and [balupdate.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/balupdate.php) with your own values.
+* Create a database with name `nishidh`. Note if you wold like to change database properies then edit the following code in [dbcontroller.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/dbcontroller.php), [memb.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/memb.php) and [balupdate.php](https://github.com/Nishidh25/All-Knightr/blob/master/project/balupdate.php) with your own values.
   *  `private $user = "root";`
   *  `private $password = "";`
   *  `private $database = "nishidh";`
