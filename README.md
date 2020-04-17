@@ -40,3 +40,7 @@ An online game shopping site (Web Programming Project).
 ![Signin](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Signin.PNG)
 #### Membership
 ![Membership](https://github.com/Nishidh25/All-Knightr/blob/master/screenshots/Capture_Membership.PNG)
+
+## Contributors
+* [Nishidh Singh Shekhawat](https://github.com/Nishidh25)
+* [Prashansa Dhomane](https://github.com/paridhomane)
