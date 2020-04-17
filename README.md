@@ -18,3 +18,9 @@ Online Game Shopping Site (WP project).
 * Open http://localhost/project/tabs.php on your browser to view the project.
 
 ## Screenshots
+![HOME_Page]()
+![Games_Page]()
+![Signup/Signin]()
+
+
+
